@@ -30,3 +30,7 @@ Documentation of the Cursor IDE setup, extensions installed, and steps completed
 3. For Claude or Codex, complete authentication when prompted (sign in with your provider account).
 4. Open a project folder and start coding — use Cursor's chat, Claude, or Codex for AI assistance as needed.
 5. Let Prettier format your files on save or on demand to keep code style consistent.
+
+# Topic Chosen
+## YouTube Content Strategy for B2B SaaS
+A winning B2B SaaS YouTube strategy replaces cold outreach with trust-building education. Instead of talking about features, we talk about the precise problems tou our ideal customer faces. The goal isn’t viral views but sustainable lead generation: showing up reliably as the helpful expert so that when the company is ready to buy, you’re the obvious choice.
