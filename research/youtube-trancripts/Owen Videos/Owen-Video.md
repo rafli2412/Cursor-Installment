@@ -1,9 +1,9 @@
 # Owen Video - 3 Recent Videos on YouTube Content Strategy for B2B SaaS
 
-## Video 1: An EXACT YouTube Marketing Strategy to EXPLODE Your Growth
+## Video 1: My YouTube Strategy Blueprint for Professional & Business Channels.
 **Type:** Long-Form Video
-**URL:** https://www.youtube.com/watch?v=MCvqMpUK9fU
-**Uploaded:** May 8, 2024
+**URL:** [https://www.youtube.com/watch?v=MCvqMpUK9fU](https://www.youtube.com/watch?v=h_GAyANkNyg)
+**Uploaded:** March 14, 2023
 **Duration:** Full-length video
 **Channel:** @owenvideo1
 
