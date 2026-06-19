@@ -17,22 +17,22 @@ YouTube content strategy for B2B SaaS focuses on building trust and demand with 
 
 ## Experts
 
-1. **Owen Video (Owen Hemsath)** — Channel: Owen Video. Focuses exclusively on YouTube for B2B lead generation. Teaches “The B2B YouTube System” with a heavy emphasis on converting viewers into qualified meetings, not just chasing views.
+1. **Owen Video (Owen Hemsath)** — Channel: [Owen Video](https://www.youtube.com/@owenvideo1). Focuses exclusively on YouTube for B2B lead generation. Teaches “The B2B YouTube System” with a heavy emphasis on converting viewers into qualified meetings, not just chasing views.
 
-2. **Jamie Brindle** — Channel: Jamie Brindle. Dedicated to “YouTube for B2B”. Breaks down how to build predictable revenue pipelines using educational content, perfect for early-stage SaaS founders.
+2. **Jamie Brindle** — Channel: [Jamie Brindle](https://www.youtube.com/@thejamiebrindle). Dedicated to “YouTube for B2B”. Breaks down how to build predictable revenue pipelines using educational content, perfect for early-stage SaaS founders.
 
-3. **Todd Hartley (WireBuzz)** — Channel: Todd Hartley. Specialises in video marketing for complex B2B sales. Shares practical frameworks for turning technical product demos and expertise into binge-worthy YouTube content.
+3. **Todd Hartley (WireBuzz)** — Channel: [Todd Hartley](https://www.youtube.com/@thetoddhartleyshow). Specialises in video marketing for complex B2B sales. Shares practical frameworks for turning technical product demos and expertise into binge-worthy YouTube content.
 
-4. **Tom Libelt (Smart Brand Marketing)** — Channel: Smart Brand Marketing. Combines organic YouTube strategy with ad campaigns specifically for SaaS and software companies. Covers keyword research, ad creative, and funnel building.
+4. **Tom Libelt (Smart Brand Marketing)** — Channel: [Tom Libelt](https://www.youtube.com/@tomlibelt). Combines organic YouTube strategy with ad campaigns specifically for SaaS and software companies. Covers keyword research, ad creative, and funnel building.
 
-5. **Daniel Daines-Hutt (Zero to Marketing)** — Channel: Zero to Marketing. Focuses on content marketing and SEO-driven YouTube strategies for SaaS. He frequently reverse-engineers what’s working and gives actionable templates.
+5. **Daniel Daines-Hutt** — Channel: [Daniel Daines-Hutt](https://www.youtube.com/@DanielDainesHutt). Focuses on content marketing and SEO-driven YouTube strategies for SaaS. He frequently reverse-engineers what’s working and gives actionable templates.
 
-6. **Aleric Heck (AdOutreach)** — Channel: AdOutreach. The go-to authority on YouTube ads for B2B/SaaS. While ads-heavy, his channel teaches the full-funnel content strategy that makes ads profitable – highly relevant for scalable growth.
+6. **Aleric Heck (AdOutreach)** — Channel: [AdOutreach](https://www.youtube.com/@AlericHeckYT). The go-to authority on YouTube ads for B2B/SaaS. While ads-heavy, his channel teaches the full-funnel content strategy that makes ads profitable – highly relevant for scalable growth.
 
-7. **Eric Siu (Leveling Up)** — Channel: Leveling Up. Runs the marketing agency Single Grain and shares high-level B2B SaaS marketing strategy, including how he built a multi-million‑view YouTube channel that drives agency clients.
+7. **Eric Siu (Leveling Up)** — Channel: [Leveling Up with Eric Siu](https://www.youtube.com/@LevelingUpOfficial). Runs the marketing agency Single Grain and shares high-level B2B SaaS marketing strategy, including how he built a multi-million‑view YouTube channel that drives agency clients.
 
-8. **Noah Kagan (AppSumo)** — Channel: Noah Kagan. Documents the real-world growth of AppSumo and other SaaS ventures. His YouTube insights on audience building, storytelling, and testing content are invaluable for bootstrapped SaaS founders.
+8. **Noah Kagan (AppSumo)** — Channel: [Noah Kagan](https://www.youtube.com/@noahkagan). Documents the real-world growth of AppSumo and other SaaS ventures. His YouTube insights on audience building, storytelling, and testing content are invaluable for bootstrapped SaaS founders.
 
-9. **Alex Hormozi** — Channel: Alex Hormozi. While not SaaS-exclusive, his relentlessly practical advice on value-driven content, offer crafting, and customer acquisition directly applies to B2B SaaS growth. He’s also publicly shared his exact YouTube strategy.
+9. **Alex Hormozi** — Channel: [Alex Hormozi](https://www.youtube.com/@AlexHormozi). While not SaaS-exclusive, his relentlessly practical advice on value-driven content, offer crafting, and customer acquisition directly applies to B2B SaaS growth. He’s also publicly shared his exact YouTube strategy.
 
-10. **Sam Oh (Ahrefs)** — Channel: Ahrefs. The face of one of the most successful B2B SaaS YouTube channels. Sam’s execution of education-first, search-optimised content is a living masterclass in how to dominate your niche and convert viewers into power users.
+10. **Sam Oh (Ahrefs)** — Channel: [Ahrefs](https://www.youtube.com/@AhrefsCom). The face of one of the most successful B2B SaaS YouTube channels. Sam’s execution of education-first, search-optimised content is a living masterclass in how to dominate your niche and convert viewers into power users.
