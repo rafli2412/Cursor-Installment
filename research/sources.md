@@ -26,3 +26,13 @@ YouTube content strategy for B2B SaaS focuses on building trust and demand with 
 4. **Tom Libelt (Smart Brand Marketing)** — Channel: Smart Brand Marketing. Combines organic YouTube strategy with ad campaigns specifically for SaaS and software companies. Covers keyword research, ad creative, and funnel building.
 
 5. **Daniel Daines-Hutt (Zero to Marketing)** — Channel: Zero to Marketing. Focuses on content marketing and SEO-driven YouTube strategies for SaaS. He frequently reverse-engineers what’s working and gives actionable templates.
+
+6. **Aleric Heck (AdOutreach)** — Channel: AdOutreach. The go-to authority on YouTube ads for B2B/SaaS. While ads-heavy, his channel teaches the full-funnel content strategy that makes ads profitable – highly relevant for scalable growth.
+
+7. **Eric Siu (Leveling Up)** — Channel: Leveling Up. Runs the marketing agency Single Grain and shares high-level B2B SaaS marketing strategy, including how he built a multi-million‑view YouTube channel that drives agency clients.
+
+8. **Noah Kagan (AppSumo)** — Channel: Noah Kagan. Documents the real-world growth of AppSumo and other SaaS ventures. His YouTube insights on audience building, storytelling, and testing content are invaluable for bootstrapped SaaS founders.
+
+9. **Alex Hormozi** — Channel: Alex Hormozi. While not SaaS-exclusive, his relentlessly practical advice on value-driven content, offer crafting, and customer acquisition directly applies to B2B SaaS growth. He’s also publicly shared his exact YouTube strategy.
+
+10. **Sam Oh (Ahrefs)** — Channel: Ahrefs. The face of one of the most successful B2B SaaS YouTube channels. Sam’s execution of education-first, search-optimised content is a living masterclass in how to dominate your niche and convert viewers into power users.
